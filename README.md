@@ -1,4 +1,4 @@
-# health-management-records-using-OPENAI
+# health management records using OPENAI - 健康管理記録
 
 OPENAIを使用した健康管理記録
 
