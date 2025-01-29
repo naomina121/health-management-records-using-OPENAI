@@ -74,3 +74,17 @@ OPENAIを使用した健康管理記録
 
 ---
 
+## 8. 画像出力結果（サンプル）
+
+![sentiment_time_series](https://github.com/user-attachments/assets/08c11432-e1a5-4fe5-b40d-1f9e11ccf4b4)
+![mood_stress_time_series](https://github.com/user-attachments/assets/bab8c793-3c9f-449b-901a-09897675ce24)
+![correlation_heatmap](https://github.com/user-attachments/assets/599d7d31-2b04-46cf-ac9d-73668d8cc422)
+![activity_vs_morning_mood](https://github.com/user-attachments/assets/9aee9ef7-e7f3-43ad-aa01-4c6a93c6f3f1)
+![activity_vs_evening_mood](https://github.com/user-attachments/assets/8bfcdbe8-2c48-4de4-88a6-58a1dfd55398)
+![activity_mood_correlation](https://github.com/user-attachments/assets/f4a61202-f4c9-4a88-972d-2925938e2c9b)
+![wordcloud](https://github.com/user-attachments/assets/de82d1c8-ab15-445a-9d76-5cab95ec9785)
+![sleep_time_series](https://github.com/user-attachments/assets/a5d9ecc2-3ac4-4442-b204-449f48de9307)
+
+---
+
+
